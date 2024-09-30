@@ -1,1 +1,7 @@
-# Apostila-09---Operadores_logicos_e_relacionais_Estruturas_de_selecao
+Group Members: 
+Fabiane Natsumi Semidu 
+RA: 2041382221045
+Hamilton Alves da Silva
+RA: 2041382221031
+Heitor Terra Cachucho da Silva
+RA: 2041382221043
